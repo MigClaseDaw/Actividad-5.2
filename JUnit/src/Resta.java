@@ -2,7 +2,7 @@ public class Resta {
     double a;
     double b;
 
-    //a
+    //resta
     public Resta(double a) {
         this.a = a;
     }
