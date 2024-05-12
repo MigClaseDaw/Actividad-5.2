@@ -1,6 +1,8 @@
 public class Suma {
     double a;
     double b;
+
+    //suma
     public Suma(double a, double b) {
         this.a = a;
         this.b = b;
